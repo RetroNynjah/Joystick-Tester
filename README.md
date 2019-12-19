@@ -11,4 +11,4 @@
  | 1206 SMD red LED | 1 | D5 | |
  | 1206 SMD green LED | 4 | D1, D2, D3, D4 | |
  | 0805 SMD resistor 220Ω | 5 | R1, R2, R3, R4, R5 ||
- 
+ | DE-9M 9-pin male D-SUB | 1 | X1 |straight connectors or solder cups |
