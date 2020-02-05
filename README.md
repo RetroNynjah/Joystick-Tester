@@ -1,7 +1,9 @@
 
 # Joystick-Tester
  Tester for 9-pin Atari and Commodore compatible joysticks.
- <img src="images/joysticktester.jpg" alt="drawing" width="400"/> 
+ 
+ <img src="images/joysticktester.jpg" alt="drawing" width="400"/>
+ 
  <img src="images/pcb-top.svg" alt="drawing" width="250"/> <img src="images/pcb-bottom.svg" alt="drawing" width="250"/>
  
 ## BOM
