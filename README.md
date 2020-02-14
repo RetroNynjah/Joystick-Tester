@@ -1,5 +1,5 @@
 
-# Joystick-Tester
+# Retro Ninja Joystick-Tester
  Tester for 9-pin Atari and Commodore compatible joysticks.
  
  <img src="images/joysticktester.jpg" alt="drawing" width="400"/>
